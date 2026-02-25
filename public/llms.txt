@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+תרמו בקלות למשפחות נזקקות בחגי ישראל. מכירת חמץ, קמחא דפסחא, מתנות לאביונים ופידיון כפרות אונליין. מצוות צדקה בלחיצה אחת עם עמותת אמ&quot;א.
+
+### קמפיינים
+https://example.com/campaigns
+גלו את כל הקמפיינים הפעילים שלנו: קמחא דפסחא, מתנות לאביונים, פידיון כפרות ומכירת חמץ. בחרו את הקמפיין המתאים ותרמו ישירות למשפחות נזקקות.
+
+### אודות
+https://example.com/about
+עמותת אמ&quot;א מחברת בין לב תורם ללב מקבל מזה שנים. למדו על השליחות שלנו לסייע למשפחות נזקקות בחגי ישראל ולקיים מצוות צדקה בדרך המשמעותית ביותר.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על תרומה, מכירת חמץ או קבלת סיוע? צוות עמותת אמ&quot;א כאן בשבילכם. צרו קשר עכשיו ונחזור אליכם בהקדם האפשרי עם כל התשובות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
