@@ -1,6 +1,4 @@
-# עמותת אמ"א בישראל — Generative Engine Optimization Map
-
-> Ama Charity Organization is a nonprofit dedicated to supporting families in need during Jewish holidays. They facilitate religious charitable practices including Passover wheat fund (Kimcha D'Pischa), gifts to the poor, redemption of Kapparot chickens, and sale of Chametz. The organization serves as a bridge between donors and recipients, focusing on holiday-related charitable giving within the Jewish community.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About עמותת אמ"א בישראל
-Ama Charity Organization is a nonprofit dedicated to supporting families in need during Jewish holidays. They facilitate religious charitable practices including Passover wheat fund (Kimcha D'Pischa), gifts to the poor, redemption of Kapparot chickens, and sale of Chametz. The organization serves as a bridge between donors and recipients, focusing on holiday-related charitable giving within the Jewish community.
-
-## Target Audience
-תורמים ומשפחות נזקקות
-
-## Industry
-ארגון ללא כוונת רווח / צדקה
-
+## About Business
 ---
 
 # Additional Resources
